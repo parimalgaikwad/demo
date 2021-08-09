@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Place Order"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="48.998">
+  <properties />
+  
+  
+            <testcase name="proceedToCheckout" time="13.171" classname="test.PlaceOrder" />
+                <testcase name="billingAddress" time="35.827" classname="test.PlaceOrder" />
+      
+</testsuite>

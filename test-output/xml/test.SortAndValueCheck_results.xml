@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sorting and value check"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.252">
+  <properties />
+  
+  
+            <testcase name="checkSorting" time="3.745" classname="test.SortAndValueCheck" />
+                <testcase name="checkValue" time="4.507" classname="test.SortAndValueCheck" />
+      
+</testsuite>
